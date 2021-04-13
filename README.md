@@ -1,5 +1,5 @@
-# Projeto `<Título em Português>`
-# Project `<Title in English>`
+# Projeto `<Associação entre automedicação, casos de intoxicação medicamentosa reportados e perfis socioeconômicos das regiões brasileiras>`
+# Project `<Self-medication, reported cases of drug intoxication and socioeconomic profiles of Brazilian regions associations>`
 
 # Apresentação
 
@@ -15,7 +15,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 
 # Descrição Resumida do Projeto
-> Descrição do tema do projeto, incluindo motivação e contexto gerador.
+> No Brasil durante o período 2010-2017 foram notificados 565.271 casos de intoxicação, dentre eles casos de intoxicação medicamentosa. Observa-se neste estudo, publicado a partir da consolidação de dados da plataforma SINAN,que os casos de intoxicação por medicamentos supera os casos de intoxicação por agrotóxicos por exemplo. Paralelamente a esta realidade, dados apresentados pelo Conselho Federal de Farmácia estimam que 77% dos brasileiros se automediquem. Este mesmo estudo verificou que as classes medicamentosas mais utilizadas no contexto da automedicação são as classes de analgésicos e relaxantes musculares - onde a dipirona é o fármaco mais consumido. Tais dados chamam a atenção quando nos deparamos com o marketing farmacêutico de medicamentos isentos de prescrição. A automedicação, cada vez, mais frequente na sociedade, é uma das possíveis causas de intoxicação medicamentosa e um relatório atual da OMS aponta que até 2050, cerca de 10 milhões de pessoas venham a óbito em decorrência da automedicação. Nesse sentido, tendo-se vista a relevância destes dois tópicos bem como da grande diversidade das regiões brasileiras, nós objetivamos relacionar os dados de intoxicação com automedicação e poder scioeconômico nas cinco regiões brasileiras.
 > 
 > Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 

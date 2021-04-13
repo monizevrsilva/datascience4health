@@ -20,16 +20,30 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 > Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
 
 # Perguntas de Pesquisa
-> Perguntas de pesquisa que o projeto pretende responder ou hipóteses a serem avaliadas, enunciadas de maneira objetiva e verificável.
+1. Qual a relação entre a quantidade de notificações por intoxicação e a quantidade de intoxicações por automedicação na população brasileira?
+1. Qual a relação entre a quantidade de notificações de intoxicações por automedicação e o poder socioeconômico das regiões brasileiras?
+1. Qual o perfil socioeconômico da população brasileira que realiza notificações sobre intoxicações epidemiológicas?
+1. Qual o impacto das campanhas publicitárias na decisão dos brasileiros em se automedicar?
+
 
 # Bases de Dados
-> Elencar bases de dados candidatas a serem utilizadas no projeto.
+- SINAN;
+- SINITOX;
+- AEL (ael.ifch.unicamp.br) / IBOPE.
+
 
 # Metodologia
-> Proposta de metodologia incluindo especificação de quais técnicas pretende-se explorar, tais como: aprendizagem de máquina, análise de redes, análise estatística, ou integração de uma ou mais técnicas. Para a primeira entrega, descreva de maneira mais genérica que tipo de abordagem seu grupo pretende realizar.
+Acreditamos que utilizaremos análises estatística e temporal, usando técnicas como regressão linear para explorar os dados obtidos. Pretendemos seguir a metodologia KDD durante todo o processo de desenvolvimento do projeto.
 
 # Ferramentas
-> Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+- Python / Orange;
+- Ferramenta de controle de planilhas (Google Sheets);
+- Git;
+- Github;
+- Tableau.
+
 
 # Cronograma
-> Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
+- Até o final de Abril - Consolidação das bases de dados a serem utilizadas; Definição das perguntas de pesquisa a serem utilizadas;
+- Até o final de Maio - Consolidação de artigos / parte estatística dos bancos
+- Meados de Junho - Finalização da escrita do relatório final
